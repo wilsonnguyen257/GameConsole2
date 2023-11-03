@@ -1,0 +1,14 @@
+S:\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.exe
+S:\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.deps.json
+S:\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.runtimeconfig.json
+S:\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.dll
+S:\GameConsole\GameConsole\bin\Debug\net7.0\GameConsole.pdb
+S:\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.GeneratedMSBuildEditorConfig.editorconfig
+S:\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.AssemblyInfoInputs.cache
+S:\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.AssemblyInfo.cs
+S:\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.csproj.CoreCompileInputs.cache
+S:\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.dll
+S:\GameConsole\GameConsole\obj\Debug\net7.0\refint\GameConsole.dll
+S:\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.pdb
+S:\GameConsole\GameConsole\obj\Debug\net7.0\GameConsole.genruntimeconfig.cache
+S:\GameConsole\GameConsole\obj\Debug\net7.0\ref\GameConsole.dll
